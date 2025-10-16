@@ -6,7 +6,6 @@ Este projeto é um jogo da velha criado usando a linguagem Python e o Tkinter (G
 - Verificar_vitoria;
 - Vencedor(jogador);
 - Desabilitar_botoes;
-- Desabilitar_botoes;
 - Habilitar_botoes;
 - Zerar_placar;
 - Mostrar_creditos;
