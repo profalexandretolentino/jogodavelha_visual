@@ -9,6 +9,7 @@ Este projeto é um jogo da velha criado usando a linguagem Python e o Tkinter (G
 - Habilitar_botoes;
 - Zerar_placar;
 - Mostrar_creditos;
+- Intreface Gráfica (GUI).
 
 ## Como executar
 Para rodar o projeto, execute o arquivo principal dentro da pasta `src`:
